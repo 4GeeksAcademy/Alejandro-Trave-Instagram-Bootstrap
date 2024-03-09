@@ -1,0 +1,36 @@
+i {
+    font-size: 40px;
+}
+
+h3 {
+    margin-left: 5px;
+}
+
+button {
+    margin-left: 50px;
+}
+
+img {
+    width: 1000px;
+}
+
+h6 small {
+    font-size: 12px;
+    color: grey;
+}
+
+textarea {
+    width: 100%;
+}
+
+#logout {
+    color: red;
+}
+
+#camera i {
+    font-size: 15px;
+}
+
+#location i {
+    font-size: 17px;
+}
